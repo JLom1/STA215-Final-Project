@@ -1,0 +1,32 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+speed,117.725,26.53696,67,204,speed of each song measured in BPM
+monthly_listeners,30.8895,24.46609,1,112.9,monthly listeners of the artist on Spotify measured in millions
+merch_sold,"183,837.50","181,169.20","10,000","1,200,000",amount of merch sold by the artist
+simplicity,,,,,how simple the meaning of the song 
+Simple,0.56,,,,song has a simple meaning
+Moderate,0.36,,,,song has a moderately complicated meaning
+Complicated,0.08,,,,song has a complicated meaning
+lyrical_tone,,,,,an adjective to describe how positive or negative the lyrics of the song are
+Desolate,0,,,,lyrics are considered to be desolate
+Pessimistic,0.06,,,,lyrics are considered to be pessimistic
+Somber,0.25,,,,lyrics are considered to be somber
+Grief-Stricken,0.15,,,,lyrics are considered to be grief-stricken
+Neutral,0.08,,,,lyrics are considered to be neutral
+Hopeful,0.18,,,,lyrics are considered to be hopeful
+Positive,0.13,,,,lyrics are considered to be positive
+Optimistic,0.11,,,,lyrics are considered to be optimistic
+Ecstatic,0.02,,,,lyrics are considered to be ecstatic
+Exultant,0.02,,,,lyrics are considered to be exultant
+lyrical_tone.1,,,,,an adjective to describe how hyper or chill the lyrics of the song are
+Tranquil,0,,,,lyrics are considered to be tranquil
+Relaxed,0.04,,,,lyrics are considered to be relaxed
+Reflective,0.15,,,,lyrics are considered to be reflective
+Moderate,0.22,,,,lyrics are considered to be moderate
+Energetic,0.1,,,,lyrics are considered to be energetic
+Excited,0.21,,,,lyrics are considered to be excited
+Bouncy,0.2,,,,lyrics are considered to be bouncy
+Exhilirated,0.06,,,,lyrics are considered to be exhilirated
+Hyper,0.02,,,,lyrics are considered to be hyper
+Explosive,0,,,,lyrics are considered to be explosive
+N=200,,,,,
